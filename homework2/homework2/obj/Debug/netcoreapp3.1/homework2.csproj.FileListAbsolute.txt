@@ -1,0 +1,13 @@
+C:\Users\hbc\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\homework2.exe
+C:\Users\hbc\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\homework2.deps.json
+C:\Users\hbc\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\homework2.runtimeconfig.json
+C:\Users\hbc\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\homework2.runtimeconfig.dev.json
+C:\Users\hbc\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\homework2.dll
+C:\Users\hbc\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\homework2.pdb
+C:\Users\hbc\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\homework2.csprojAssemblyReference.cache
+C:\Users\hbc\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\homework2.AssemblyInfoInputs.cache
+C:\Users\hbc\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\homework2.AssemblyInfo.cs
+C:\Users\hbc\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\homework2.csproj.CoreCompileInputs.cache
+C:\Users\hbc\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\homework2.dll
+C:\Users\hbc\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\homework2.pdb
+C:\Users\hbc\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\homework2.genruntimeconfig.cache
