@@ -1,0 +1,13 @@
+C:\Users\hbc\source\repos\homework3\shape\bin\Debug\netcoreapp3.1\shape.exe
+C:\Users\hbc\source\repos\homework3\shape\bin\Debug\netcoreapp3.1\shape.deps.json
+C:\Users\hbc\source\repos\homework3\shape\bin\Debug\netcoreapp3.1\shape.runtimeconfig.json
+C:\Users\hbc\source\repos\homework3\shape\bin\Debug\netcoreapp3.1\shape.runtimeconfig.dev.json
+C:\Users\hbc\source\repos\homework3\shape\bin\Debug\netcoreapp3.1\shape.dll
+C:\Users\hbc\source\repos\homework3\shape\bin\Debug\netcoreapp3.1\shape.pdb
+C:\Users\hbc\source\repos\homework3\shape\obj\Debug\netcoreapp3.1\shape.csprojAssemblyReference.cache
+C:\Users\hbc\source\repos\homework3\shape\obj\Debug\netcoreapp3.1\shape.AssemblyInfoInputs.cache
+C:\Users\hbc\source\repos\homework3\shape\obj\Debug\netcoreapp3.1\shape.AssemblyInfo.cs
+C:\Users\hbc\source\repos\homework3\shape\obj\Debug\netcoreapp3.1\shape.csproj.CoreCompileInputs.cache
+C:\Users\hbc\source\repos\homework3\shape\obj\Debug\netcoreapp3.1\shape.dll
+C:\Users\hbc\source\repos\homework3\shape\obj\Debug\netcoreapp3.1\shape.pdb
+C:\Users\hbc\source\repos\homework3\shape\obj\Debug\netcoreapp3.1\shape.genruntimeconfig.cache
