@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hbc\\source\\repos\\homework5\\homework5\\homework5.csproj",
+      "projectUniqueName": "C:\\git\\homework5\\homework5\\homework5.csproj",
       "projectName": "homework5",
-      "projectPath": "C:\\Users\\hbc\\source\\repos\\homework5\\homework5\\homework5.csproj",
+      "projectPath": "C:\\git\\homework5\\homework5\\homework5.csproj",
       "packagesPath": "C:\\Users\\hbc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hbc\\source\\repos\\homework5\\homework5\\obj\\",
+      "outputPath": "C:\\git\\homework5\\homework5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hbc\\AppData\\Roaming\\NuGet\\NuGet.Config",

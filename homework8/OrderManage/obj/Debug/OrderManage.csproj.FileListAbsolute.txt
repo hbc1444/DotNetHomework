@@ -1,0 +1,14 @@
+C:\Users\hbc\source\repos\homework8\OrderManage\bin\Debug\OrderManage.exe.config
+C:\Users\hbc\source\repos\homework8\OrderManage\bin\Debug\OrderManage.exe
+C:\Users\hbc\source\repos\homework8\OrderManage\bin\Debug\OrderManage.pdb
+C:\Users\hbc\source\repos\homework8\OrderManage\obj\Debug\OrderManage.csprojAssemblyReference.cache
+C:\Users\hbc\source\repos\homework8\OrderManage\obj\Debug\OrderManage.csproj.CoreCompileInputs.cache
+C:\Users\hbc\source\repos\homework8\OrderManage\obj\Debug\OrderManage.exe
+C:\Users\hbc\source\repos\homework8\OrderManage\obj\Debug\OrderManage.pdb
+\\vmware-host\Shared Folders\桌面\homework8\OrderManage\bin\Debug\OrderManage.exe.config
+\\vmware-host\Shared Folders\桌面\homework8\OrderManage\bin\Debug\OrderManage.exe
+\\vmware-host\Shared Folders\桌面\homework8\OrderManage\bin\Debug\OrderManage.pdb
+\\vmware-host\Shared Folders\桌面\homework8\OrderManage\obj\Debug\OrderManage.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\桌面\homework8\OrderManage\obj\Debug\OrderManage.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\桌面\homework8\OrderManage\obj\Debug\OrderManage.exe
+\\vmware-host\Shared Folders\桌面\homework8\OrderManage\obj\Debug\OrderManage.pdb

@@ -1,0 +1,16 @@
+\\vmware-host\Shared Folders\桌面\homework8\obj\Debug\homework8.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\桌面\homework8\obj\Debug\homework8.Form1.resources
+\\vmware-host\Shared Folders\桌面\homework8\obj\Debug\homework8.Properties.Resources.resources
+\\vmware-host\Shared Folders\桌面\homework8\obj\Debug\homework8.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\桌面\homework8\obj\Debug\homework8.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\桌面\homework8\bin\Debug\homework8.exe.config
+\\vmware-host\Shared Folders\桌面\homework8\bin\Debug\homework8.exe
+\\vmware-host\Shared Folders\桌面\homework8\bin\Debug\homework8.pdb
+\\vmware-host\Shared Folders\桌面\homework8\bin\Debug\OrderManage.exe
+\\vmware-host\Shared Folders\桌面\homework8\bin\Debug\OrderManage.pdb
+\\vmware-host\Shared Folders\桌面\homework8\bin\Debug\OrderManage.exe.config
+\\vmware-host\Shared Folders\桌面\homework8\obj\Debug\homework8.csproj.CopyComplete
+\\vmware-host\Shared Folders\桌面\homework8\obj\Debug\homework8.exe
+\\vmware-host\Shared Folders\桌面\homework8\obj\Debug\homework8.pdb
+\\vmware-host\Shared Folders\桌面\homework8\obj\Debug\homework8.Form2.resources
+\\vmware-host\Shared Folders\桌面\homework8\obj\Debug\homework8.Form3.resources
