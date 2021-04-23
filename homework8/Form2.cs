@@ -21,14 +21,14 @@ namespace homework8
             Customer customer1 = new Customer("Tom");
             Customer customer2 = new Customer("Bob");
 
-            Goods apple = new Goods("book", 5);
-            Goods egg = new Goods("pen", 4);
-            Goods milk = new Goods("pencil", 6);
+            Goods book = new Goods("book", 5);
+            Goods pen = new Goods("pen", 4);
+            Goods pencil = new Goods("pencil", 6);
             customerBindingSource.Add(customer1);
             customerBindingSource.Add(customer2);
-            goodsBindingSource.Add(apple);
-            goodsBindingSource.Add(egg);
-            goodsBindingSource.Add(milk);
+            goodsBindingSource.Add(book);
+            goodsBindingSource.Add(pen);
+            goodsBindingSource.Add(pencil);
 
         }
 
